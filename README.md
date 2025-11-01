@@ -48,9 +48,15 @@ Power BI | DAX | Data Analysis | KPI Design | Supply Chain Analytics | Data Visu
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Page 1](Screenshot_2025-11-01_155939.png)
-![Dashboard Page 2](Screenshot_2025-11-01_160026.png)
-![Dashboard Page 3](Screenshot_2025-11-01_160050.png)
+![Dashboard Page 1]
+<img width="1330" height="741" alt="Supply Chain Analysis Overview" src="https://github.com/user-attachments/assets/aeeac48f-f490-4d9c-b583-258fdcd79d13" />
+
+![Dashboard Page 2]
+<img width="1328" height="742" alt="Supply Chain Analysis Products" src="https://github.com/user-attachments/assets/de3ec386-721e-4a0d-af36-101916e33d74" />
+
+![Dashboard Page 3]
+<img width="1330" height="740" alt="Supply Chain Analysis Supplier" src="https://github.com/user-attachments/assets/6803e04f-a606-4314-9592-9823cdfc8838" />
+
 
 ---
 
